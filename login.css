@@ -1,0 +1,75 @@
+.part11{
+    background-color: rgb(66, 64, 64);
+    height:70px;
+}
+#left-header{
+    float: left;
+    width: 50%;
+}
+.userpage{
+    color: lightgrey;
+    font-weight: bold;
+    display: block;  
+}
+.navbar{
+    width: 50%;
+    float: right;
+    margin-top: 10px;
+   margin-right: -100px;
+}
+.navbar li{
+    display: inline;
+    margin: 10px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+    padding: 20px 20px;
+}
+.navbar a:hover{
+    background-color: darkmagenta;
+}
+.part1{
+    background: url(photo.jpg);
+    background-size: cover;
+    height:650px;
+    display: block;
+   
+}
+.part2{
+   color: white; 
+  text-align: center;
+}
+.img{
+    border-radius: 80%;
+    margin-top: 30px; 
+}
+.part3{
+    text-align: center;   
+}
+.champ{
+    border-radius: 15px;
+    height: 30px;
+    width: 200px; 
+    text-align: center; 
+}
+.log{
+    color: white;
+    text-align: center;
+    background-color: rgb(53, 38, 53);
+    border-radius: 15px;
+    height: 30px;
+    width: 200px; 
+    text-align: center;
+    
+}
+.lien a{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+.active{
+    background-color: black;
+    padding: 20px 20px;
+}

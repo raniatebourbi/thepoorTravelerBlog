@@ -1,0 +1,75 @@
+
+.part1{
+    background-color: rgb(66, 64, 64);
+    height:70px;
+}
+#left-header{
+    float: left;
+    width: 50%;
+}
+.userpage{
+    color: lightgrey;
+    font-weight: bold;
+    display: block;  
+}
+.navbar{
+    width: 50%;
+    float: right;
+    margin-top: 10px;
+   margin-right: -100px;
+}
+.navbar li{
+    display: inline;
+    margin: 10px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+    padding: 20px 20px;
+}
+.navbar a:hover{
+    background-color: darkmagenta;
+}
+.part2{
+    background: url(photoreg.jpg);
+    background-size: cover;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    height:600px;
+    display: block;
+}
+.title{
+    text-align: center;
+    color: lightgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hr{
+    color:lightgreen;
+    border:1px solid;
+    width:500px;
+
+}
+.texte{
+    text-align: center;
+    color: white;    
+}
+.tableau{
+    margin-left: 570px; 
+}
+
+.lien{
+    background-color: darkmagenta;
+    
+}
+.part3{
+    text-align: center;
+}
+.part0{
+    background-color: black;
+    height:40px;
+}
+.active{
+    background-color: black;
+    padding: 20px 20px;
+}
